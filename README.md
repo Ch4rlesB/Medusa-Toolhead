@@ -12,17 +12,17 @@ Belt mounting on the toolhead itself is very simplified to save weight. You will
 	-2x M5 Standard Nut (Idler shaft)
 	-4x M6x8mm (Mouting the idlers to the frame - Reuse the ones used to hold the old ones in place)
 	-2x M3x30mm (Tensioning Screw)
+## Toolhead
 
-
-## Cooling 
+### Cooling 
 Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 
-## Currently supports:
+### Currently supports:
 
 	- Dragon SF and HF
 	- Mosquito or NF-Crazy
 	
-## Toolhead BOM: 
+### Toolhead BOM: 
 
 	- 3010 Fan for hotend cooling.
 	- 5015 Fan for part cooling
