@@ -9,6 +9,7 @@ Designed to need the least hardware as possible while still being stiff and ligh
 Belt mounting on the toolhead itself is very simplified to save weight. You will need to print the tensioning front idlers and replace the static stock ones. This will allow you to tension the belts.
 
 	-2x M5x40mm (Idler shaft)
+	-2x M5 Standard Nut (Idler shaft)
 	-4x M6x8mm (Mouting the idlers to the frame - Reuse the ones used to hold the old ones in place)
 	-2x M3x30mm (Tensioning Screw)
 
