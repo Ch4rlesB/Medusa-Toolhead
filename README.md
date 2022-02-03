@@ -16,7 +16,6 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 
 	- Dragon SF and HF
 	- Mosquito or NF-Crazy
-	- Rapido
 	
 ## Requires: 
 
