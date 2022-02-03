@@ -8,6 +8,11 @@ Designed to need the least hardware as possible while still being stiff and ligh
 ## Tensioning Idlers
 Belt mounting on the toolhead itself is very simplified to save weight. You will need to print the tensioning front idlers and replace the static stock ones. This will allow you to tension the belts.
 
+	-2x M5x40mm (Idler shaft)
+	-2x M5 Standard Nut (Idler shaft)
+	-4x M6x8mm (Mouting the idlers to the frame - Reuse the ones used to hold the old ones in place)
+	-2x M3x30mm (Tensioning Screw)
+
 
 ## Cooling 
 Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
@@ -16,7 +21,6 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 
 	- Dragon SF and HF
 	- Mosquito or NF-Crazy
-	- Rapido
 	
 ## Toolhead BOM: 
 
@@ -25,6 +29,7 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 	- 5x M3-12mm Screw (Hotend Cooling Fan, Shroud, Cooling Duct)
 	- 3x M3-20mm Screw (Cooling Duct and Fan) 
 	- Mounting hardware that goes with your hotend (Usually 2 or 4 M2.5 screws)
+	- 2x M2x10mm Screw (Endstop mounting)
 	
 	- Optional
 		- 2x M3-8mm Screw (Umbilical Mount)
