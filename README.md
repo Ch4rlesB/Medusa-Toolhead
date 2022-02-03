@@ -18,7 +18,7 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 	- Mosquito or NF-Crazy
 	- Rapido
 	
-## Requires: 
+## Toolhead BOM: 
 
 	- 3010 Fan for hotend cooling.
 	- 5015 Fan for part cooling
