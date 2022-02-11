@@ -32,7 +32,6 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 	- 2x M2x10mm Screw (Endstop mounting)
 	
 	- Optional
-		- 2x M3-8mm Screw (Umbilical Mount)
 		- 3x M3-10mm Screw (BlTouch Mount)
 		- 1x M3-12mm Screw (BlTouch Mount)
 	
