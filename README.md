@@ -22,6 +22,16 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 	- Dragon SF and HF
 	- Mosquito or NF-Crazy
 	
+	- BlTouch
+	- Klicky Probe
+	
+### Klicky Probe
+ Currently supports Klicky probe with a custom toolhead mount and docking mount.
+
+Toolhead Mount            |  Dock & Mount
+:-------------------------:|:-------------------------:
+![backview_klicky](/img/backview_klicky.png)  |  ![mount_klicky](/img/mountview_klicky.png)
+
 ### Toolhead BOM: 
 
 	- 3010 Fan for hotend cooling.
@@ -34,5 +44,8 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 	- Optional
 		- 3x M3-10mm Screw (BlTouch Mount)
 		- 1x M3-12mm Screw (BlTouch Mount)
-	
+		
+		- 2x M3-6mm Screw (Klicky Toolhead Mount)
+		
+
 	
