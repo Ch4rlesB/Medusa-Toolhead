@@ -1,4 +1,5 @@
 # Medusa-Toolhead
+**__IN BETA__**
 ![FrontView](/img/frontview.png)
 
 Toolhead designed for the SnakeOil-XY CoreXY 3D Printer [Github](https://github.com/ChipCE/SnakeOil-XY).
