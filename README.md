@@ -4,7 +4,7 @@
 
 Toolhead designed for the SnakeOil-XY CoreXY 3D Printer [Github](https://github.com/ChipCE/SnakeOil-XY).
 
-Designed to need the least hardware as possible while still being stiff and light.
+Designed to need the least hardware possible while still being stiff and light.
 
 ## Tensioning Idlers
 Belt mounting on the toolhead itself is very simplified to save weight. You will need to print the tensioning front idlers and replace the static stock ones. This will allow you to tension the belts.
@@ -15,9 +15,6 @@ Belt mounting on the toolhead itself is very simplified to save weight. You will
 	-2x M3x30mm (Tensioning Screw)
 ## Toolhead
 
-### Cooling 
-Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
-
 ### Currently supports:
 
 	- Dragon SF and HF
@@ -26,8 +23,11 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 	- BlTouch
 	- Klicky Probe
 	
+### Cooling 
+Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
+
 ### Klicky Probe
- Currently supports Klicky probe with a custom toolhead mount and docking mount.
+ Currently supports [Klicky probe](https://github.com/jlas1/Klicky-Probe) with a custom toolhead mount and dock mount.
 
 Toolhead Mount            |  Dock & Mount
 :-------------------------:|:-------------------------:
@@ -42,11 +42,21 @@ Toolhead Mount            |  Dock & Mount
 	- Mounting hardware that goes with your hotend (Usually 2 or 4 M2.5 screws)
 	- 2x M2x10mm Screw (Endstop mounting)
 	
-	- Optional
-		- 3x M3-10mm Screw (BlTouch Mount)
-		- 1x M3-12mm Screw (BlTouch Mount)
+	AND
+	
+	- Bltouch
+		- 3x M3-10mm Screw
+		- 1x M3-12mm Screw
 		
-		- 2x M3-6mm Screw (Klicky Toolhead Mount)
+			OR
+			
+	- Klicky
+		- 2x M3-6mm Screw
+		- 2x M3-16 Screws
+		- 2x M2-10 self tapping screws
+		- 1x Omron D2F Microswitch or similar
+		- 8x 6x3mm round magnets
+		
 		
 
 	
