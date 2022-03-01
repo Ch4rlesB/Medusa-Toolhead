@@ -2,9 +2,11 @@
 **__IN BETA__**
 ![FrontView](/img/frontview.png)
 
-Toolhead designed for the SnakeOil-XY CoreXY 3D Printer [Github](https://github.com/ChipCE/SnakeOil-XY).
+EVA 2.4 replacement for the [**SnakeOil-XY CoreXY 3D Printer**](https://github.com/ChipCE/SnakeOil-XY).
 
 Designed to need the least hardware possible while still being stiff and light.
+
+3 printed parts total if you are using the BlTouch probe.
 
 ## Tensioning Idlers
 Belt mounting on the toolhead itself is very simplified to save weight. You will need to print the tensioning front idlers and replace the static stock ones. This will allow you to tension the belts.
@@ -17,9 +19,14 @@ Belt mounting on the toolhead itself is very simplified to save weight. You will
 
 ### Currently supports:
 
+	Extruder:
+	-Sherpa Mini Extruder
+	
+	Hotend:
 	- Dragon SF and HF
 	- Mosquito or NF-Crazy
 	
+	Probe:
 	- BlTouch
 	- Klicky Probe
 	
