@@ -1,0 +1,1 @@
+![PrintOrientation](/img/mosquito_klicky_print_orientation.png)
