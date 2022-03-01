@@ -54,6 +54,7 @@ Toolhead Mount            |  Dock & Mount
 	- Bltouch
 		- 3x M3-10mm Screw
 		- 1x M3-12mm Screw
+		- 2x M3 Nut
 		
 			OR
 			
