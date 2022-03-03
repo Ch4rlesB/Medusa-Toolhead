@@ -13,7 +13,7 @@ Belt mounting on the toolhead itself is very simplified to save weight. You will
 
 	-2x M5x40mm Button Head (Idler shaft)
 	-2x M5 Standard Nut (Idler shaft)
-	-4x M6x8mm (Mouting the idlers to the frame - Reuse the ones used to hold the old ones in place)
+	-4x M6x8mm (Mouting the idlers to the frame - Reuse the ones used to hold the old idlers in place)
 	-2x M3x30mm Button Head (Tensioning Screw)
 ## Toolhead
 
