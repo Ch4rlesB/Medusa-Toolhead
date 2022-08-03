@@ -1,5 +1,10 @@
 # Medusa-Toolhead
-**__IN BETA 1__**
+**__IN BETA 3__**
+
+Beta 3 Changelog
+- Changed belt mounting system from slide in to loop around + ziptie.
+- Stiffened front horizontal (Hotend & Extruder mounting plate).
+
 ![FrontView](/img/frontview.png)
 
 EVA 2.4 replacement for the [**SnakeOil-XY CoreXY 3D Printer**](https://github.com/ChipCE/SnakeOil-XY).
@@ -19,11 +24,19 @@ Designed to need the least hardware possible while still being stiff and light.
 	- Mosquito or NF-Crazy
 	
 	Probe:
-	- BlTouch
 	- Klicky Probe
+
+	Umbilical:
+	- Hartk Voron 2.4 Toolhead board
+	- Normal umbilical
 	
 ### Cooling 
 Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
+
+### Offsets
+	- x : -1.8 mm
+	- y : 76.85 mm
+	- z : -6.2 mm
 ### BOM
   
 	- 3010 Fan for hotend cooling.
@@ -34,11 +47,6 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 	- 2x M2x10mm self tapping screws (Endstop mounting)
 	
 												AND
-	- Bltouch
-		- 3x M3-10mm Screw
-		- 1x M3-12mm Screw
-		- 2x M3 Nut	
-												OR	
 	- Klicky
 		- 2x M3-6mm Screw
 		- 2x M3-16 Screws
@@ -66,13 +74,14 @@ Front            |  Back
  Currently supports [Klicky probe](https://github.com/jlas1/Klicky-Probe) with a custom toolhead mount and dock mount.
 
 
- Based on the Z endstop present on [Voron 3D Printers](https://github.com/VoronDesign).
+
 
 Toolhead Mount            |  Dock & Mount
 :-------------------------:|:-------------------------:
 ![backview_klicky](/img/backview_klicky.png)  |  ![mount_klicky](/img/mountview_klicky.png)
 
 ## **4. Z Endstop**
+ Based on the Z endstop present on [Voron 3D Printers](https://github.com/VoronDesign).
 
  Acts as your z endstop and lets you use the [Z Calibration tool](https://github.com/protoloft/klipper_z_calibration) in conjunction with the Klicky Probe, to automatically set your Z offset independently of nozzle or print surface.
 
