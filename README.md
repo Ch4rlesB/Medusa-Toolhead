@@ -29,28 +29,50 @@ Designed to need the least hardware possible while still being stiff and light.
 	Umbilical:
 	- Hartk Voron 2.4 Toolhead board
 	- Normal umbilical
+  Toolhead Board            |  No Toolhead Board
+:-------------------------:|:-------------------------:
+![umbilical_board](/img/umbilical_board.png)  |  ![umbilical_no_board](/img/umbilical_no_board.png)
+
+
 	
 ### Cooling 
 Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 
 ### Offsets
-	- x : -1.8 mm
-	- y : 76.85 mm
-	- z : -6.2 mm
+	 x : -1.8 mm
+	 y : 76.85 mm
+	 z : 6.2 mm
 ### BOM
-  
-	- 3010 Fan for hotend cooling.
-	- 5015 Fan for part cooling
-	- 5x M3-12mm Screw (Hotend Cooling Fan, Shroud, Cooling Duct)
-	- 3x M3-20mm Screw (Cooling Duct and Fan) 
-	- Mounting hardware that goes with your hotend (Usually 2 or 4 M2.5 screws)
-	- 2x M2x10mm self tapping screws (Endstop mounting)
+	- 1x Dragon OR Mosquito (NF-Crazy) Hotend
+
+	- 1x Fully Assembled Sherpa Mini Extruder
+
+	- 1x 3010 Fan for hotend cooling.
 	
-												AND
+	- 1x 5015 Fan for part cooling
+
+	- 6x M3-6mm Screw (MGN12, Umbilical)
+
+	- 7x M3-12mm Screw (Hotend Cooling Fan, Shroud, Cooling Duct, Sherpa mini mounting)
+
+	- 3x M3-25mm Screw (Cooling Duct and Fan) 
+
+	- Mounting hardware that goes with your hotend (Usually 2 or 4 M2.5 screws)
+
+	- 2x M2x10mm self tapping screws (Endstop mounting)
+
+	- 14x M3 Heatset insert M3x4mmx4mm
+
+	- OPTIONAL 1x hartk afterburner toolhead board
+
+	- 4x Zipties (Belts)
+						AND
 	- Klicky
 		- 2x M3-6mm Screw
-		- 2x M3-16 Screws
-		- 2x M2-10 self tapping screws
+		- 2x M3-16mm Screws
+		- 2x M2-10mm self tapping screws
+		- 2x M6-8mm Screw
+		- 2x M3 Heatset insert M3x4mmx4mm
 		- 1x Omron D2F Microswitch or similar
 		- 8x 6x3mm round magnets
 		
@@ -65,10 +87,11 @@ Front            |  Back
 
 
 ### Bom
-	-2x M5x40mm Button Head (Idler shaft)
-	-2x M5 Standard Nut (Idler shaft)
-	-4x M6x8mm (Mouting the idlers to the frame - Reuse the ones used to hold the old idlers in place)
-	-2x M3x30mm Button Head (Tensioning Screw)
+	- 2x M5x40mm Button Head (Idler shaft)
+	- 2x M5 Standard Nut (Idler shaft)
+	- 4x M6x8mm (Mouting the idlers to the frame - Reuse the ones used to hold the old idlers in place)
+	- 2x M3x30mm Button Head (Tensioning Screw)
+	- 12x M3 Heatset insert M3x4mmx4mm
 
 ## **3. Klicky Probe**
  Currently supports [Klicky probe](https://github.com/jlas1/Klicky-Probe) with a custom toolhead mount and dock mount.
