@@ -7,4 +7,8 @@ If the part has this at the end of its name:
 
 When installing, make sure the idlers are at right height to keep belts parallel.
 
+	- No need for support. 
+	- 3-4 Perimeters
+	- 30-40% Infill
+
 ![IdlersHeight](/img/idlers_height.png)

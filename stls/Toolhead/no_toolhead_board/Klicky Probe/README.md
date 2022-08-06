@@ -9,4 +9,4 @@ If the part has this at the end of its name:
 	- 3-4 Perimeters
 	- 30-40% Infill
 
-![PrintOrientation](/img/mosquito_toolboard_print_orientation.png)
+![PrintOrientation](/img/klicky_print_orientation.png)
