@@ -50,7 +50,7 @@ Designed to need the least hardware possible while still being stiff and light.
 	
 ### 1.2 Cooling 
 Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
-
+![Air Duct](/img/air_duct.png)
 ### 1.3 Offsets
 	 x : -1.8 mm
 	 y : 76.85 mm
