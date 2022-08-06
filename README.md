@@ -27,7 +27,7 @@ Designed to need the least hardware possible while still being stiff and light.
 3 printed parts total if you are using the BlTouch probe or Klicky probe.
 ## **1. Toolhead**
 
-### Currently supports:
+### 1.1 Currently supports:
 
 	Extruder:
 	-Sherpa Mini Extruder
@@ -48,14 +48,14 @@ Designed to need the least hardware possible while still being stiff and light.
 
 
 	
-### Cooling 
+### 1.2 Cooling 
 Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 
-### Offsets
+### 1.3 Offsets
 	 x : -1.8 mm
 	 y : 76.85 mm
 	 z : 6.2 mm
-### BOM
+### 1.4 BOM
 	- 1x Dragon OR Mosquito (NF-Crazy) Hotend
 
 	- 1x Fully Assembled Sherpa Mini Extruder
