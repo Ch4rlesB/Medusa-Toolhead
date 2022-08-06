@@ -1,5 +1,6 @@
 # Medusa-Toolhead
 **__IN BETA 3__**
+![FrontView](/img/frontview.png)
 
 **Beta 3 Changelog:**
 - Removed the slide in belt attachment method. You now loop around a post and ziptie the belt to itself, à la VZBot. (Pardon my french)
@@ -18,7 +19,7 @@
 
 - CFD work to align the airflow from the duct better.
 
-![FrontView](/img/frontview.png)
+
 
 EVA 2.4 replacement for the [**SnakeOil-XY CoreXY 3D Printer**](https://github.com/ChipCE/SnakeOil-XY).
 
