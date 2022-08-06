@@ -1,9 +1,22 @@
 # Medusa-Toolhead
 **__IN BETA 3__**
 
-Beta 3 Changelog
-- Changed belt mounting system from slide in to loop around + ziptie.
-- Stiffened front horizontal (Hotend & Extruder mounting plate).
+**Beta 3 Changelog:**
+- Removed the slide in belt attachment method. You now loop around a post and ziptie the belt to itself, à la VZBot. (Pardon my french)
+
+- Much Much MUCH stiffer. Horizontal bar that holds extruder and hotend does not flex at all now.
+
+- Removed compability for the BLTouch as it is too unreliable inside a 60C enclosure.
+
+- Narrowed down the Umbilical options to:
+
+	I. Straight umbilical with strain relief.
+
+	II. Hartk Afterburner Toolhead board. (ALOT of different wiring            harnesses on aliexpress made to work with this board that                facilitate 		   wiring overall)
+
+- Standardized the screw sizes.
+
+- CFD work to align the airflow from the duct better.
 
 ![FrontView](/img/frontview.png)
 
