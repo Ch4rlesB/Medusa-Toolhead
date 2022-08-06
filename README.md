@@ -19,13 +19,12 @@
 
 - CFD work to align the airflow from the duct better.
 
-
+# **__What is it?__**
 
 EVA 2.4 replacement for the [**SnakeOil-XY CoreXY 3D Printer**](https://github.com/ChipCE/SnakeOil-XY).
 
 Designed to need the least hardware possible while still being stiff and light.
 
-3 printed parts total if you are using the BlTouch probe or Klicky probe.
 ## **1. Toolhead**
 
 ### 1.1 Currently supports:
