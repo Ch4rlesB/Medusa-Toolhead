@@ -1,20 +1,33 @@
 # Medusa-Toolhead
 **__IN BETA 3__**
-
-Beta 3 Changelog
-- Changed belt mounting system from slide in to loop around + ziptie.
-- Stiffened front horizontal (Hotend & Extruder mounting plate).
-
 ![FrontView](/img/frontview.png)
+
+**Beta 3 Changelog:**
+- Removed the slide in belt attachment method. You now loop around a post and ziptie the belt to itself, à la VZBot. (Pardon my french)
+
+- Much Much MUCH stiffer. Horizontal bar that holds extruder and hotend does not flex at all now.
+
+- Removed compability for the BLTouch as it is too unreliable inside a 60C enclosure.
+
+- Narrowed down the Umbilical options to:
+
+	I. Straight umbilical with strain relief.
+
+	II. Hartk Afterburner Toolhead board. (ALOT of different wiring            harnesses on aliexpress made to work with this board that                facilitate 		   wiring overall)
+
+- Standardized the screw sizes.
+
+- CFD work to align the airflow from the duct better.
+
+# **__What is it?__**
 
 EVA 2.4 replacement for the [**SnakeOil-XY CoreXY 3D Printer**](https://github.com/ChipCE/SnakeOil-XY).
 
 Designed to need the least hardware possible while still being stiff and light.
 
-3 printed parts total if you are using the BlTouch probe or Klicky probe.
 ## **1. Toolhead**
 
-### Currently supports:
+### 1.1 Currently supports:
 
 	Extruder:
 	-Sherpa Mini Extruder
@@ -35,14 +48,14 @@ Designed to need the least hardware possible while still being stiff and light.
 
 
 	
-### Cooling 
+### 1.2 Cooling 
 Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
-
-### Offsets
+![Air Duct](/img/air_duct.png)
+### 1.3 Offsets
 	 x : -1.8 mm
 	 y : 76.85 mm
 	 z : 6.2 mm
-### BOM
+### 1.4 BOM
 	- 1x Dragon OR Mosquito (NF-Crazy) Hotend
 
 	- 1x Fully Assembled Sherpa Mini Extruder
