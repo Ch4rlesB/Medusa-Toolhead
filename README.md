@@ -76,6 +76,10 @@ Uses a modified [Eva](https://github.com/EVA-3D/eva-main) cooling duct.
 		- 1x Omron D2F Microswitch or similar
 		- 8x 6x3mm round magnets
 		
+### Assembly
+
+![ToolheadAssembly](/img/Medusa_Assembly.gif)
+
 
 ## **2. Tensioning Idlers**
 
