@@ -132,7 +132,7 @@ SnakeOil modified version            |  Based on the [Voron](https://docs.vorond
 
 
 ### Bom
-	-2x M3x2mm Button Head (Mounting to bed)
+	-2x M3x20mm Button Head (Mounting to bed)
 	-2x M3 Standard Nut (Mounting to bed)
 	-1x 5mm x 25mm Steel shaft
 	-1x Omron D2F Microswitch or similar
